@@ -5,6 +5,6 @@ Generative Adversarial Networks (GANs) are models that generate new examples by 
 
 The flowchart below illustrates the GAN computation process.
 
-![image.png](attachment:f59ed53e-8e87-4406-bca8-0d8705bac147.png)
+![image](https://github.com/user-attachments/assets/5e1088c5-2fb8-4f40-ab4b-508e39d5216a)
 
 In this notebook, the task is to generate a number of animate characters images by training a GAN model on the related dataset. The dataset contains 63,565 images of animate characters.
